@@ -46,6 +46,8 @@ else:
 
 if jam>=8:
     lembur=(jam-8)*3500
+else:
+    lembut=0
     
 total_gaji=300000+jabatan+tunjangan+lembur
 
